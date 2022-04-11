@@ -1,12 +1,10 @@
 # DSC-640
 
-
-Final Project can be found in Final Project folder
-
-
-
-Weekly Work completed for this course may be found in the Weekly folder
+ Work split into biweekly increments
+ 
+ 
+Each folder should contain graphs, a combined pdf, and code files
 
 
 
-Files and Data in first screen
+Miscellaneous Files and Data in first screen
